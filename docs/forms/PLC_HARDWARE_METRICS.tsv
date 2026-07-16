@@ -1,0 +1,5 @@
+Node_ID	PLC_IP_Address	Sensor_Type	Modbus_Register_Addr	Target_Operating_Metric	Max_Safety_Threshold	Automated_Interrupt_Action
+PLC-N01	192.168.10.12	In-Line Piezo-Transducer	Holding 3.5 - 4.5 mPa·s	> 15.0 psi Line Backpressure	MOTOR_SHUTDOWN_IMMEDIATE
+PLC-N02	192.168.10.14	Ultrasonic Bubble Array	40021 (Float32)	Constant Liquid Phase	Signal Attenuation > 30%	EMB_EMBOLISM_FAULT_HALT
+PLC-N03	192.168.10.15	Optical Turbidity Metry	40032 (Int16)	Clear/Translucent Continuum	Refraction Index Shift > 5%	EMULSION_FAILURE_QUARANTINE
+PLC-N04	192.168.10.18	Thermal RTD Probe	40045 (Float32)	Holding Matrix @ 70.00°C	> 85.00°C / < 60.00°C	THERMAL_RUNAWAY_VALVE_CLOSE
