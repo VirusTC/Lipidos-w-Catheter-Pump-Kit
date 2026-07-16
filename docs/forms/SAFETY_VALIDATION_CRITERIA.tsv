@@ -1,0 +1,6 @@
+Lot_Parameter_ID	Analytical_Methodology	Target_Metric_Standard	Acceptance_Safety_Threshold	Critical_Failure_Action
+QC-VAL-001	Dynamic Light Scattering (DLS)	Mean Globule Size < 0.5 µm	PFAT5 < 0.05% (No particles > 5 µm)	Immediate Lot Quarantine
+QC-VAL-002	Limulus Amebocyte Lysate (LAL)	Endotoxin Content < 0.25 EU/mL	Zero Pyrogenic Response	Lot Disposal & System Flush
+QC-VAL-003	Membrane Culture Isolation	0 CFU after 14-day incubation	Absolute Sterility Verified	Lot Disposal & Autoclave Cycle
+QC-VAL-004	Automated Tensiometry	Interfacial Tension Stability	Delta < 5% over 72 hours @ 37°C	Emulsion Recalibration
+QC-VAL-005	Rotational Rheometry	Viscosity: 3.5 - 4.5 mPa·s	Laminar Newtonian Flow Profile	Lot Re-dilution Protocol
