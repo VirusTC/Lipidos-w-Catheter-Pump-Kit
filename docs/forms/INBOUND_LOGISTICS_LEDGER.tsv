@@ -1,0 +1,5 @@
+Batch_ID	Material_Source	Botanical_Identity	RFID_Serial_Num	Automated_Purity_Score	Quarantine_Status	Cleared_Timestamp
+LOG-2026-X1	US_Civil_Defense_CoOp	Zea_mays_Extract	RFID-9942-A	99.4%_Triglyceride	PASSED_QC	2026-07-16_02:14:05
+LOG-2026-X2	US_Civil_Defense_CoOp	Apis_mellifera_Wax	RFID-9942-B	100%_Pure_Yellow_Wax	PASSED_QC	2026-07-16_02:16:11
+LOG-2026-X3	US_Civil_Defense_CoOp	Cocos_nucifera_Oil	RFID-9943-A	99.8%_MCT_Saturated	PASSED_QC	2026-07-16_02:18:40
+LOG-2026-X4	US_Civil_Defense_CoOp	USP_Cupric_Salt_Lot	RFID-9944-C	99.9%_USP_Standard	HOLD_PENDING_LAL	2026-07-16_02:22:15
