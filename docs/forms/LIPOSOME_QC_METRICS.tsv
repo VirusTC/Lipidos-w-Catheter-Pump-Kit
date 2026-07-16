@@ -1,0 +1,5 @@
+Vesicle_ID	Mechanism_Target	Analytical_Testing_Metric	Target_Value_Standard	Max_Safety_Threshold	PLC_Interlock_Trigger
+LIPO-MECH-01	Passive EPR Targeting	Mean Vesicle Diameter	50 - 150 nm	> 200 nm (Macro-Aggregates)	REJECT_BATCH_CONVEYOR
+LIPO-MECH-02	Colloidal Repulsion	Zeta Potential Boundary	-30 mV to -50 mV	> -15 mV (High Clumping)	RE-HOMOGENIZE_VALVE_OPEN
+LIPO-MECH-03	Core Encapsulation	Entrapment Efficiency Score	85% - 95% Volumetric	< 70% (Leaking Payload)	FLUSH_LINE_TO_WASTE
+LIPO-MECH-04	Fluid Shear Delivery	Phase Transition Temp (Tm)	41.00°C Specific	> 50.00°C (Rigid Structure)	THERMAL_JACKET_HEAT_LOOP
