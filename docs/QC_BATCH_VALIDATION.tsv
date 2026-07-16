@@ -1,0 +1,5 @@
+Lot_ID	Analysis_Type	Testing_Equipment	Target_Specification	Acceptance_Threshold	Status_Trigger
+QC-2026-01	Particle_Size	Dynamic_Light_Scattering	Mean Diameter < 0.5 µm	PFAT5 < 0.05%	PASS_LOT
+QC-2026-01	Apyrogenicity	LAL_Gel_Clot_Assay	< 0.25 EU/mL	Endotoxin Negative	PASS_LOT
+QC-2026-01	Sterility_Audit	Aerobic/Anaerobic Culture	0 CFU after 14 days	Zero Microbial Growth	PASS_LOT
+QC-2026-01	Viscosity_Profile	Rotational Viscometer	3.5 - 4.5 mPa·s	Constant Newtonian Flow	PASS_LOT
