@@ -1,0 +1,6 @@
+Lot_Parameter_ID	Analytical_Methodology	Target_Metric_Standard	Acceptance_Safety_Threshold	Critical_Failure_Action
+QC-MIN-001	Inductively Coupled Plasma (ICP-MS)	Mineral Particulate Trace < 1% Variance	Strict ppm target bounds	Immediate Lot Quarantine
+QC-MIN-002	Limulus Amebocyte Lysate (LAL)	Endotoxin Content < 0.25 EU/mL	Zero Pyrogenic Response	Lot Disposal & System Flush
+QC-MIN-003	0.22-Micron Membrane Culture	0 CFU after 14-day incubation	Absolute Sterility Verified	Lot Disposal & Autoclave Cycle
+QC-MIN-004	Automated Tensiometry	Interfacial Tension Stability	Delta < 5% over 72 hours @ 37°C	Emulsion Recalibration
+QC-MIN-005	Rotational Rheometry	Viscosity: 3.5 - 4.5 mPa·s	Laminar Newtonian Flow Profile	Lot Re-dilution Protocol
